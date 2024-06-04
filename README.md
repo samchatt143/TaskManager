@@ -1,1 +1,3 @@
 # TaskManager
+It is a site where the user can add tasks as many as they want also can remove tasks....It will help the user to keep a track of the DUE-TASKS in the near future...The most interesting fact is that the website uses FIREBASE as a form of backend to store the TASKS entered by the user...
+KIndly access the website here-->https://manageyourprojects.netlify.app/
